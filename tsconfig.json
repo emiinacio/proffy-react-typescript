@@ -20,6 +20,6 @@
     "jsx": "react"
   },
   "include": [
-    "src"
+    "src", "src/routes.tsxsrc/react-app-env.d.tsd.ts", "App.tsx"
   ]
 }
